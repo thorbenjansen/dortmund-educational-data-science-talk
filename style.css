@@ -4763,13 +4763,22 @@ button.corpus-card {
 
 .dortmund-starting-point .starting-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 14px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
 }
 
 .dortmund-starting-point .starting-grid article {
-  min-height: 205px;
+  min-height: 170px;
   padding: 20px;
+}
+
+.dortmund-starting-point .starting-grid .starting-connection {
+  grid-column: 1 / -1;
+  min-height: 96px;
+  display: grid;
+  grid-template-columns: minmax(220px, 0.34fr) 1fr;
+  align-items: center;
+  column-gap: 30px;
 }
 
 .dortmund-starting-point h1 {
