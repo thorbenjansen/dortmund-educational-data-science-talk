@@ -2843,6 +2843,41 @@ button.corpus-card {
   max-width: 1020px;
 }
 
+.sevt-ai-context-slide {
+  justify-items: center;
+}
+
+.sevt-ai-context-slide h1 {
+  max-width: 980px;
+  font-size: clamp(38px, 4.2vw, 58px);
+}
+
+.sevt-ai-heading-row {
+  width: min(980px, 100%);
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 18px;
+}
+
+.sevt-ai-heading-row h1 {
+  flex: 1 1 auto;
+  margin: 0;
+}
+
+.sevt-ai-heading-row .ref {
+  flex: 0 0 auto;
+  margin-top: 12px;
+}
+
+.sevt-ai-context-slide .sevt-picture {
+  width: min(980px, 100%);
+}
+
+.sevt-ai-context-slide .sevt-picture img {
+  max-height: min(500px, calc(100vh - 250px));
+}
+
 .sevt-picture,
 .progression-picture {
   width: var(--content);

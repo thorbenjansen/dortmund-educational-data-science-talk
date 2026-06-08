@@ -21,6 +21,7 @@ This compact list supports the adaptive `Sources` control in the Dortmund Educat
 
 - Schaller, Jansen, et al. (2024a): DARIUS corpus and science argumentation ratings; 4,589 essays from 1,839 German secondary students.
 - Keller, Jansen, et al. (2024): analytic ratings of EFL argumentative writing; 2,314 TOEFL argumentative essays from year 11 students.
+- Lohmann, Jansen et al. (2025): supervised learning algorithms for predicting expert ratings of argumentative writing.
 - Fleckenstein, Meyer, Jansen, Keller, & Koeller, 2020: text length and validity risks in writing assessment.
 - Voegelin, Jansen, Keller, Machts, & Moeller, 2020: organizational quality of ESL argumentative essays and teacher judgments.
 - Jansen et al., 2021: judgment accuracy in experienced versus student teachers when assessing EFL essays.
