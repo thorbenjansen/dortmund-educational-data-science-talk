@@ -4775,10 +4775,10 @@ button.corpus-card {
 .dortmund-starting-point .starting-grid .starting-connection {
   grid-column: 1 / -1;
   min-height: 96px;
-  display: grid;
-  grid-template-columns: minmax(220px, 0.34fr) 1fr;
+  display: flex;
   align-items: center;
-  column-gap: 30px;
+  justify-content: center;
+  text-align: center;
 }
 
 .dortmund-starting-point h1 {
