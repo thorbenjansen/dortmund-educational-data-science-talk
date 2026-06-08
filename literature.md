@@ -12,15 +12,15 @@ This compact list supports the adaptive `Sources` control in the Dortmund Educat
 ## Theory and Formative Assessment
 
 - Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77(1), 81-112.
-- Hattie & Jansen, submitted: formative assessment, feedback uptake, and the four questions students ask while working.
+- Hattie & Jansen (submitted): formative assessment, feedback uptake, and the four questions students ask while working.
 - Black & Wiliam, 2009: formative assessment and classroom feedback as instructional regulation.
 - Opportunity-Propensity / Angebots-Nutzungs models as a bridge from learning opportunities to use, process, and development.
 - Situated Expectancy-Value Theory and AI learning arrangements as a motivation frame for who benefits from feedback and AI support.
 
 ## Writing Assessment and Human Anchors
 
-- Schaller, Jansen et al., 2024a: DARIUS corpus and science argumentation ratings; 4,589 essays from 1,839 German secondary students.
-- Keller, Lohmann, Trueb, Fleckenstein, Meyer, Jansen, & Moeller, 2024: analytic ratings of EFL argumentative writing; 2,314 TOEFL argumentative essays from year 11 students.
+- Schaller, Jansen, et al. (2024a): DARIUS corpus and science argumentation ratings; 4,589 essays from 1,839 German secondary students.
+- Keller, Jansen, et al. (2024): analytic ratings of EFL argumentative writing; 2,314 TOEFL argumentative essays from year 11 students.
 - Fleckenstein, Meyer, Jansen, Keller, & Koeller, 2020: text length and validity risks in writing assessment.
 - Voegelin, Jansen, Keller, Machts, & Moeller, 2020: organizational quality of ESL argumentative essays and teacher judgments.
 - Jansen et al., 2021: judgment accuracy in experienced versus student teachers when assessing EFL essays.
@@ -29,9 +29,9 @@ This compact list supports the adaptive `Sources` control in the Dortmund Educat
 ## AI Feedback, Engagement, and Differential Effects
 
 - Jansen, Hoeft, Bahr, Fleckenstein, Moeller, Koeller, & Meyer, 2024: comparing generative AI and expert feedback to students' argumentative writing.
-- Fleckenstein, Jansen, Meyer, Trueb et al., 2024: behavioral engagement as a mediator of individual feedback effects on writing performance.
-- Bahr, Hoeft, Lipnevich, Meyer, & Jansen, 2025: students' receptivity to feedback as latent profiles in secondary writing.
-- Bahr, Hoeft, Meyer, & Jansen, 2026: multistudy validation of receptivity to instructional computer-based feedback.
+- Fleckenstein, Jansen, et al. (2024): behavioral engagement as a mediator of individual feedback effects on writing performance.
+- Bahr, Jansen, et al. (2025): students' receptivity to feedback as latent profiles in secondary writing.
+- Bahr, Jansen, et al. (2026): multistudy validation of receptivity to instructional computer-based feedback.
 - Jansen et al., 2025: feedback from generative AI and student engagement in text revision across 655 teacher-generated writing tasks and 14,236 students.
 - Jansen, Puenjer, Tanz, Schaller, & Hoeft, 2026: for whom AI feedback supports writing self-efficacy.
 - Tanz, Puenjer, Hoeft, Schaller, & Jansen, submitted: differential AI-feedback effects by skill and motivation.
@@ -40,7 +40,7 @@ This compact list supports the adaptive `Sources` control in the Dortmund Educat
 ## Teacher Assessment and Transfer
 
 - TRACE teacher assessment simulation and teacher assessment competence work.
-- Jansen et al., 2026: feedback on teachers' text assessment accuracy and motivation.
+- Jansen et al. (2026): feedback on teachers' text assessment accuracy and motivation.
 - DFG project TRACE-G: Training Assessment Competencies in German.
 - KISS-Pro / Lernen:digital: professionalizing teachers for AI in language and writing.
 - open.hpi.de course: less correcting, more teaching with AI-supported feedback.
